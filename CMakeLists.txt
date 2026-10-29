@@ -11,4 +11,7 @@ add_executable(Pipe main.c
         NamedPipe1/client.c
         NamePipe2/server.c
         NamePipe2/client.c
-        NamePipe3/chat.c)
+        NamePipe3/chat.c
+        Exec/EsempioPerExec/EsempioExec.cpp
+        Exec/EsempioPerExec/secondo_programma.c
+        Exec/EserciziExec/EsA.c)
